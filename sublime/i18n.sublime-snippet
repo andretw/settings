@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\${_("@$SELECTION@")}]]></content>
+    <scope>text.html</scope>
+    <description>i18n</description>
+</snippet>

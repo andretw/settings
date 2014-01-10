@@ -1,0 +1,5 @@
+{ 
+    "keys": ["command+shift+i"],  
+    "command": "insert_snippet", 
+    "args": {"name": "Packages/User/i18n.sublime-snippet"} 
+}
